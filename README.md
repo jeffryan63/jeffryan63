@@ -1,13 +1,13 @@
 # Hi, I'm Jeff Ryan 👋
 
 Director of R&D at Fireball Industries | Mechanical Engineering 
-- • Tool & Die 
-- • Automation 
-- • Industrial Design 
-- • Robotics 
-- • Controls 
-- • Machining 
-- • Drafting
+- Tool & Die 
+- Automation 
+- Industrial Design 
+- Robotics 
+- Controls 
+- Machining 
+- Drafting
 
 I use GitHub as a core tool for R&D—prototyping ideas, collaborating on open-source, and sharing practical, production-ready resources. Most of my public work is released under the MIT License to encourage wide adoption and iteration.
 
