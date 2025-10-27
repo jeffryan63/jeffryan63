@@ -53,7 +53,7 @@ Where possible, I prioritize:
 ---
 
 ## 📂 Featured Project Structure (Typical)
-- project-name/
+project-name/
 - ├─ docs/        # Setup, usage, drawings, BOMs, safety notes
 - ├─ docs/        # Setup, usage, drawings, BOMs, safety notes
 - ├─ cad/         # CAD models, drawings, STEP exports
